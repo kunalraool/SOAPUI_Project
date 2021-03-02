@@ -1,0 +1,13 @@
+2021-03-02 12:24:53,864 INFO  [log] The number of rows are 3
+2021-03-02 12:25:05,941 INFO  [log] The Status is FINISHED
+2021-03-02 12:25:05,950 INFO  [log] Time taken is 11901 ms
+2021-03-02 12:25:05,980 INFO  [log] Number of Steps executed is 6
+2021-03-02 12:25:16,844 INFO  [log] The Status is FINISHED
+2021-03-02 12:25:16,844 INFO  [log] Time taken is 10826 ms
+2021-03-02 12:25:16,845 INFO  [log] Number of Steps executed is 6
+2021-03-02 12:25:27,704 INFO  [log] The Status is FINISHED
+2021-03-02 12:25:27,704 INFO  [log] Time taken is 10349 ms
+2021-03-02 12:25:27,705 INFO  [log] Number of Steps executed is 6
+2021-03-02 12:25:37,625 INFO  [log] The Status is FINISHED
+2021-03-02 12:25:37,625 INFO  [log] Time taken is 9874 ms
+2021-03-02 12:25:37,626 INFO  [log] Number of Steps executed is 6
